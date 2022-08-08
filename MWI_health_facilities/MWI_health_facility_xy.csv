@@ -1,0 +1,926 @@
+facility,lat,long,source,district
+ Kanjedza Police  Clinic,-15.81556,35.04861,UNC shapefiles,Blantyre
+ Makadam Pvt Clinic,,,Not found,Blantyre
+Aa-salam Clinic,-14.54537,35.19221,Github,Mangochi
+Achikondi women community ,-13.95473,33.7793,Github,Lilongwe
+Admarc Dispensary,-13.78167,34.46694,UNC shapefiles,Salima
+Adventist Health Centre,-13.95317,33.7785,UNC shapefiles,Lilongwe
+African Bible College Health Centre,-13.96839,33.74136,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Ahi Private Clinic,-15.43016,35.32265,UNC shapefiles,Zomba
+Airwing Clinic,-13.96439,33.69692,UNC shapefiles,Lilongwe
+Airwing Clinic (Zomba),-15.38835,35.38438,OpenStreetMap,Zomba
+Akasale Pvt Clinic,-15.75956,35.11454,UNC shapefiles,Chiradzulu
+Alinafe Community Hospital,-13.3879,34.2434,https://www.nature.com/articles/s41591-020-1059-1,Nkhotakota
+Alliance One Clinic,-13.894362,33.800459,Google maps,Lilongwe
+Alumenda Health Centre,-16.4033477,34.88572,OpenStreetMap,Chikwawa
+Amalika Dispensary,-15.99083,35.03157,https://www.nature.com/articles/s41591-020-1059-1,Thyolo
+Anchor Farm Health Centre,,,Not found,Kasungu
+Area 18 Medi Clinic ,-13.941512,33.770312,Google maps,Lilongwe
+Area 18 Urban Health Centre,-13.94106,33.78067,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Area 25 Banja La Mtsogolo Dispensary,-13.8923,33.7738,UNC shapefiles,Lilongwe
+Area 25 Urban Health Centre,-13.89242,33.77389,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Area 30 Police Clinic,-13.9275,33.78417,UNC shapefiles,Lilongwe
+Area 36 Private Clinic,,,Not found,Lilongwe
+Atupele Community Hospital,-9.735015,33.83744,https://www.nature.com/articles/s41591-020-1059-1,Karonga
+Auction Holdings Clinic Kanengo ,-13.89083,33.79806,UNC shapefiles,Lilongwe
+Balaka District Hospital,-14.98514,34.94953,https://www.nature.com/articles/s41591-020-1059-1,Balaka
+Balaka Dream Clinic ,-15.00316,34.952412,Google maps,Balaka
+Balaka OPD Health Centre,-14.99111,34.96056,UNC shapefiles,Balaka
+Bangwe BLM Clinic,-15.83073,35.080315,Google maps,Blantyre
+Bangwe Health Centre,-15.82383,35.08047,https://www.nature.com/articles/s41591-020-1059-1,Blantyre
+Banja La Mtsogolo Mzuzu,-11.455985,34.016538,Google maps,Mzimba-North
+Baylor Childrens Centre Of Excellence In Malawi ,-13.97796,33.7869,OpenStreetMap,Lilongwe
+Bembeke Health Centre,-14.35831,34.42453,https://www.nature.com/articles/s41591-020-1059-1,Dedza
+Benga Health Centre,-13.36853,34.27403,https://www.nature.com/articles/s41591-020-1059-1,Nkhotakota
+Bereu Dispensary,-16.1512,34.8539,UNC shapefiles,Chikwawa
+Bethsaida Private Hospital ,-13.933833,33.792036,Google maps,Lilongwe
+Bilal Dispensary,-15.73978,35.13047,https://www.nature.com/articles/s41591-020-1059-1,Chiradzulu
+Bilira Health Centre,-14.82561,34.85253,https://www.nature.com/articles/s41591-020-1059-1,Ntcheu
+Billy Riordan Memorial Health Clinic,-14.03182,34.84011,OpenStreetMap,Mangochi
+Bimbi Health Centre,-15.30922,35.47944,https://www.nature.com/articles/s41591-020-1059-1,Zomba
+Biriwiri Health Centre,-14.76083,34.5575,https://www.nature.com/articles/s41591-020-1059-1,Ntcheu
+Blantyre Adventist Hospital,-15.7825,35.003889,MASDAP.mw,Blantyre
+Blantyre City Assembly Clinic ,-15.80347,35.03848,OpenStreetMap,Blantyre
+Blantyre Civic Centre Dispensary,-15.8033,35.0367,UNC shapefiles,Blantyre
+Blantyre DHO Mobile Clinic,-15.8025,34.995278,MASDAP.mw,Blantyre
+Blantyre Dream Project,-15.791787,35.01271,Google maps,Blantyre
+Blantyre Water Board Clinic,-15.79528,35.04,UNC shapefiles,Blantyre
+Blessings Hospital ,-13.78973,33.81623,UNC shapefiles,Lilongwe
+BLM Family Planning Clinic,,,Not found,Blantyre
+Blm Karonga,-9.940833,33.924444,MASDAP.mw,Karonga
+Blm Lunzu,-15.655556,35.021667,MASDAP.mw,Blantyre
+Blm Mzimba,-11.899167,33.584167,MASDAP.mw,Mzimba-South
+Blm Nkhatabay ,-11.60903,34.29892,arcgis.com,Nkhata-Bay
+Blm Rumphi ,-11.0225,33.85547,arcgis.com,Rumphi
+Blm Zomba ,-15.387778,35.319167,MASDAP.mw,Zomba
+Bolero Rural Hospital,-10.97861,33.74306,https://www.nature.com/articles/s41591-020-1059-1,Rumphi
+Bondo Health Centre,-16.0425,35.61389,https://www.nature.com/articles/s41591-020-1059-1,Mulanje
+Bowe Health Centre,-13.27881,33.68406,https://www.nature.com/articles/s41591-020-1059-1,Dowa
+Bua Health Center (Nkhotakota),-12.79644,34.20961,https://www.nature.com/articles/s41591-020-1059-1,Nkhotakota
+Bua Health Centre (Kasungu),-13.29372,33.5385,https://www.nature.com/articles/s41591-020-1059-1,Kasungu
+Bula Health Centre,-11.2225,34.12305,https://www.nature.com/articles/s41591-020-1059-1,Nkhata-Bay
+Bulala Health Centre,-11.67836,33.44803,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-North
+Bunda Clinic,-14.180278,33.777222,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Bvumbwe Health Centre,-15.928185,35.077935,Google maps,Thyolo
+Bvumbwe Research Health Centre,-15.928185,35.077935,Google maps,Thyolo
+Bwaila Hospital,-13.99103,33.77478,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Bwanje Health Centre,-14.64867,34.77469,https://www.nature.com/articles/s41591-020-1059-1,Ntcheu
+Bwengu Health Centre,-11.06361,33.91639,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-North
+Care Medical Clinic,-11.46036,34.00696,Github,Mzimba-North
+Care Private ClinicAnd Dental Surgery Art,-9.93942,33.92297,Github,Karonga
+Carlsberg / Sobo Clinic Lilongwe ,-13.90107,33.79697,Github,Lilongwe
+Carlsberg / Sobo ClinicBlantyre,-15.78829,35.0322,UNC shapefiles,Blantyre
+Cck Health Clinic & Diagnostic Centre ,-13.98302,33.75233,Github,Lilongwe
+Central East African Railways Clinic,-15.81715,35.0656,UNC shapefiles,Blantyre
+Central Health Clinic Area 47 ,-13.954802,33.763331,Google maps,Lilongwe
+Chabvala Health Centre,-15.83414,34.83422,https://www.nature.com/articles/s41591-020-1059-1,Blantyre
+Chadza Health Centre,-14.1473,33.8415,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Chagunda,-13.88042,34.36714,https://www.nature.com/articles/s41591-020-1059-1,Salima
+Chakhaza Health Centre,-13.44431,33.64683,https://www.nature.com/articles/s41591-020-1059-1,Dowa
+Chamama Health Facility,-12.92431,33.77686,https://www.nature.com/articles/s41591-020-1059-1,Kasungu
+Chamba Health Centre (Machinga),-15.20236,35.42136,https://www.nature.com/articles/s41591-020-1059-1,Machinga
+Chamba Health Centre (Zomba),-15.46567,35.51647,https://www.nature.com/articles/s41591-020-1059-1,Zomba
+Chambe Health Centre,-15.90306,35.49028,https://www.nature.com/articles/s41591-020-1059-1,Mulanje
+Chambo Health Centre,-9.943944,33.39797,https://www.nature.com/articles/s41591-020-1059-1,Chitipa
+Chambwe Health Centre,,,Not found,Kasungu
+Champiti Health Centre,-14.90103,34.73184,https://www.nature.com/articles/s41591-020-1059-1,Ntcheu
+Chamwabvi Dispensary,-13.10758,33.68531,https://www.nature.com/articles/s41591-020-1059-1,Kasungu
+Chancellor College Clinic ,-15.391,35.3389,UNC shapefiles,Zomba
+Changalume Barracks Clinic(Muluzi),-15.385121,35.217661,Google maps,Zomba
+Chang'ambika Health Centre,-15.80778,34.37206,https://www.nature.com/articles/s41591-020-1059-1,Chikwawa
+Changata Health Centre,-16.23239,35.14756,https://www.nature.com/articles/s41591-020-1059-1,Thyolo
+Chankhungu Health Centre,-13.765,34.01469,https://www.nature.com/articles/s41591-020-1059-1,Dowa
+Chaone Health Centre,,,Not found,Machinga
+Chapananga Health Centre,-15.80778,34.38872,https://www.nature.com/articles/s41591-020-1059-1,Chikwawa
+Chesamu Health Centre,-11.85425,34.01839,https://www.nature.com/articles/s41591-020-1059-1,Nkhata-Bay
+Chezi Dispensary,-13.725278,34.036667,MASDAP.mw,Dowa
+Chichiri Escom Clinic,,,Not found,Blantyre
+Chichiri Prison,-15.8059,35.0326,UNC shapefiles,Blantyre
+Chichiri Prison Clinic,-15.80597,35.03264,https://www.nature.com/articles/s41591-020-1059-1,Blantyre
+Chididi Health Centre (Nkhotakota),-13.08578,34.31483,https://www.nature.com/articles/s41591-020-1059-1,Nkhotakota
+Chididi Health Centre (Nsanje),-16.915,35.17378,https://www.nature.com/articles/s41591-020-1059-1,Nsanje
+Chifunga Health Centre,-15.62139,34.70972,https://www.nature.com/articles/s41591-020-1059-1,Neno
+Chigodi Health Centre,-14.492,34.54153,https://www.nature.com/articles/s41591-020-1059-1,Ntcheu
+Chigumula Clinic,-15.85755,35.05662,UNC shapefiles,Blantyre
+Chikande Health Centre,-14.77281,34.90753,https://www.nature.com/articles/s41591-020-1059-1,Ntcheu
+Chikangawa Health Centre,-11.84342,33.80064,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-South
+Chikole Dispensary,-14.42211,35.38417,https://www.nature.com/articles/s41591-020-1059-1,Mangochi
+Chikowa Dispensary,,,Not found,Ntcheu
+Chikowa Health Centre (Blantyre),-15.67142,34.871,https://www.nature.com/articles/s41591-020-1059-1,Blantyre
+Chikowa Health Centre (Lilongwe),-13.72947,33.45819,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Chikuse Health Centre,-14.1505,34.3187,https://www.nature.com/articles/s41591-020-1059-1,Dedza
+Chikwawa District Hospital,-16.02345,34.79275,https://www.nature.com/articles/s41591-020-1059-1,Chikwawa
+Chikweo Health Centre,-14.76461,35.66819,https://www.nature.com/articles/s41591-020-1059-1,Machinga
+Chikwina Health Centre,-11.39708,34.16953,https://www.nature.com/articles/s41591-020-1059-1,Nkhata-Bay
+Chilambwe Health Centre,-11.69117,34.31631,https://www.nature.com/articles/s41591-020-1059-1,Nkhata-Bay
+Chilaweni,-15.677596,34.950738,Google maps,Blantyre
+Child Legacy Health Centre,-14.068308,33.472186,Google maps,Lilongwe
+Chileka Health Centre,-15.68233,34.97033,https://www.nature.com/articles/s41591-020-1059-1,Blantyre
+Chileka Health Centre (Lilongwe),-14.02122,33.38564,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Chileka Health CentreLilongwe ,-14.02122,33.38564,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Chileka Sda Health Centre,-15.6599,34.9289,https://www.nature.com/articles/s41591-020-1059-1,Blantyre
+Chilipa Health Centre (Mangochi),-14.70278,34.97389,https://www.nature.com/articles/s41591-020-1059-1,Mangochi
+Chilipa Health Centre (Zomba),-15.3245,35.11692,https://www.nature.com/articles/s41591-020-1059-1,Zomba
+Chilobwe Majiga Health Centre,-13.8547,33.3744,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Chilomoni BLM Clinic,,,Not found,Blantyre
+Chilomoni Health Centre,-15.77128,34.9815,https://www.nature.com/articles/s41591-020-1059-1,Blantyre
+Chilomoni Private Clinic,-15.774269,34.981732,Google maps,Blantyre
+Chilonga Health Centre,-14.46554,34.87109,https://www.nature.com/articles/s41591-020-1059-1,Mangochi
+Chilumba Barracks Health Centre,-10.39017,34.20881,UNC shapefiles,Karonga
+Chilumba Rural Hospital,-10.43222,34.25139,https://www.nature.com/articles/s41591-020-1059-1,Karonga
+Chimaliro Health Centre,-15.978,35.18292,https://www.nature.com/articles/s41591-020-1059-1,Thyolo
+Chimatiro Health Centre,-14.98717,34.95176,Github,Balaka
+Chimbalanga Health Centre,-13.93633,34.12411,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Chimembe Health Centre,-15.77736,34.88533,https://www.nature.com/articles/s41591-020-1059-1,Blantyre
+Chimoto Health Centre,-14.44281,34.00997,https://www.nature.com/articles/s41591-020-1059-1,Dedza
+Chimvu Health Centre,-15.95139,35.15083,https://www.nature.com/articles/s41591-020-1059-1,Thyolo
+Chimwala Dispensary,-14.052,33.7937,UNC shapefiles,Lilongwe
+Chimwamkango Dispensary,-13.41556,33.01556,https://www.nature.com/articles/s41591-020-1059-1,Mchinji
+Chimwawa Health C,-15.909166,35.258729,Github,Chiradzulu
+Chinamwali Private Clinic,-15.381389,35.355833,MASDAP.mw,Zomba
+Chingale Health Centre,-15.39692,35.18056,https://www.nature.com/articles/s41591-020-1059-1,Zomba
+Chingazi Health Centre,-15.9184,35.2061,https://www.nature.com/articles/s41591-020-1059-1,Thyolo
+Ching'oma Dispensary,-16.9992,35.1093,UNC shapefiles,Nsanje
+Chinguluwe Health Centre (Ntchisi),-13.26153,33.86847,https://www.nature.com/articles/s41591-020-1059-1,Ntchisi
+Chinguluwe Health Centre (Salima),-13.66472,34.385,https://www.nature.com/articles/s41591-020-1059-1,Salima
+Chinkhwiri Health Centre,-13.38558,33.72078,https://www.nature.com/articles/s41591-020-1059-1,Dowa
+Chinthebe Dispensary,-16.00092,35.01282,https://www.nature.com/articles/s41591-020-1059-1,Thyolo
+Chintheche Rural Hospital,-11.82611,34.16889,https://www.nature.com/articles/s41591-020-1059-1,Nkhata-Bay
+Chinthembwe Health Centre,-13.42889,33.90833,https://www.nature.com/articles/s41591-020-1059-1,Ntchisi
+Chinyama Dispensary,,,Not found,Kasungu
+Chinyama Health Centre,-16.15661,35.34083,https://www.nature.com/articles/s41591-020-1059-1,Mulanje
+Chiole Dispensary,-14.798611,34.644167,https://www.nature.com/articles/s41591-020-1059-1,Ntcheu
+Chioshya Health Centre,-13.79583,33.175,https://www.nature.com/articles/s41591-020-1059-1,Mchinji
+Chipho Health Centre,-16.20474,35.29356,https://www.nature.com/articles/s41591-020-1059-1,Thyolo
+Chipini Health Centre,-15.38981,35.09522,https://www.nature.com/articles/s41591-020-1059-1,Zomba
+Chipoka Health Centre,-13.9895,34.51556,https://www.nature.com/articles/s41591-020-1059-1,Salima
+Chiponde Health Centre (Mangochi),-14.37328,35.60158,https://www.nature.com/articles/s41591-020-1059-1,Mangochi
+Chipumi Health Centre,-13.62528,33.08139,https://www.nature.com/articles/s41591-020-1059-1,Mchinji
+Chipwaila Health Centre,-16.398889,34.781944,MASDAP.mw,Chikwawa
+Chipwanya St Josephs Health Centre,-14.075,34.25833,UNC shapefiles,Dedza
+Chiradzulu District Hospital,-15.69708,35.18756,https://www.nature.com/articles/s41591-020-1059-1,Chiradzulu
+Chirimba Health Centre,,,Not found,Blantyre
+Chiringa Health Centre,-15.76544,35.76222,https://www.nature.com/articles/s41591-020-1059-1,Phalombe
+Chiringa Maternity,-15.76583,35.76216,Github,Phalombe
+Chisala Health Centre,-11.57444,34.12194,https://www.nature.com/articles/s41591-020-1059-1,Nkhata-Bay
+Chisansu Health Centre,,,Not found,Chitipa
+Chisepo Health Centre,-13.63475,33.47039,https://www.nature.com/articles/s41591-020-1059-1,Dowa
+Chisi Health Centre,-15.32562,35.60506,Github,Zomba
+Chisitu Health Centre,-16.00097,35.43292,https://www.nature.com/articles/s41591-020-1059-1,Mulanje
+Chisoka Health Center,-16.00218,35.01294,Github,Thyolo
+Chisoka Health Centre,-16.00218,35.01294,Github,Thyolo
+Chisunga Dispensary,,,Not found,Thyolo
+Chitala Health Centre,-13.67178,34.27158,https://www.nature.com/articles/s41591-020-1059-1,Salima
+Chitawira Private Hospital ,-15.81344,35.02296,UNC shapefiles,Blantyre
+Chitedze Health Centre,-13.97686,33.64528,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Chitekesa Health Centre,-15.55189,35.57275,https://www.nature.com/articles/s41591-020-1059-1,Phalombe
+Chitera Health Centre,-15.60667,35.12289,https://www.nature.com/articles/s41591-020-1059-1,Chiradzulu
+Chitheka Health Centre,-11.70167,33.95139,https://www.nature.com/articles/s41591-020-1059-1,Nkhata-Bay
+Chithumba Health Centre,-15.80413,34.47624,UNC shapefiles,Chikwawa
+Chitimba Health Centre,-10.59783,34.17028,https://www.nature.com/articles/s41591-020-1059-1,Rumphi
+Chitipa District Hospital,-9.70197,33.26533,https://www.nature.com/articles/s41591-020-1059-1,Chitipa
+Chitowo Health Centre,-14.22392,34.04042,https://www.nature.com/articles/s41591-020-1059-1,Dedza
+Chitsimuka Health Centre,-10.76752,33.55737,https://www.nature.com/articles/s41591-020-1059-1,Rumphi
+Chiumbangame Health Centre,-14.31889,35.555,https://www.nature.com/articles/s41591-020-1059-1,Mangochi
+Chiunda Dispensary,-14.76,35.361944,https://www.nature.com/articles/s41591-020-1059-1,Mangochi
+Chiunjiza Health Centre,-14.40476,33.66957,UNC shapefiles,Lilongwe
+Chiwamba Health Centre,-13.85708,33.92892,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Chiwe Health Centre,-13.90753,33.39811,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Chiwoza Health Centre,,,,Lilongwe
+Chiyendausiku Health Centre,-15.01725,35.07642,UNC shapefiles,Balaka
+Chizolowondo Health Centre,-13.46177,33.51316,https://www.nature.com/articles/s41591-020-1059-1,Dowa
+Chizumulo (St Marys) Health Centre,-12.030278,34.621111,MASDAP.mw,Likoma
+Chizumulo St Marys Health Centre,-12.030278,34.621111,MASDAP.mw,Likoma
+Choma Health Centre,-11.31289,33.99122,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-North
+Chonde Rural Hospital,-15.99733,35.32317,https://www.nature.com/articles/s41591-020-1059-1,Mulanje
+Chongoni Health Centre,-14.313611,34.260833,MASDAP.mw,Dedza
+Chulu Health Centre,-12.82186,33.30828,https://www.nature.com/articles/s41591-020-1059-1,Kasungu
+City Assembly Dispensary,-13.98925,33.77144,UNC shapefiles,Lilongwe
+City Centre Clinic,-13.95776,33.78777,UNC shapefiles,Lilongwe
+City Clinic Zomba,-15.39072,35.32416,Github,Zomba
+Cobbe Barracks Hospital,-15.3901,35.3051,UNC shapefiles,Zomba
+Comfort Health Centre,-15.003,34.95233,https://www.nature.com/articles/s41591-020-1059-1,Balaka
+Concerned Youth Organisation,,,Not found,Blantyre
+COPRED,,,Not found,Blantyre
+Daeyang Luke Hospital,-13.87492,33.80894,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Dai Halima (Bangwe Madina),-15.82903,35.074249,Google maps,Blantyre
+Dambe Health Centre,-15.386383,34.577806,Google maps,Neno
+David Gordon Memorial Hospital (Livingstonia Mission Hospital),-10.605,34.109722,MASDAP.mw,Rumphi
+David Gordon Memorial Hospital(closed),-10.605,34.109722,MASDAP.mw,Rumphi
+Dedza District Hospital,-14.38359,34.33354,https://www.nature.com/articles/s41591-020-1059-1,Dedza
+Diamphwe Health Centre,-14.13436,34.08153,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Dickson Health Centre,-14.26653,33.65881,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Didi Health Center,-16.060867,34.989647,Google maps,Thyolo
+Didi Health Centre,-16.060867,34.989647,Google maps,Thyolo
+Discovery Medi Clinic ,-13.95818,33.79159,Github,Lilongwe
+Dolo Health Centre,-16.47836,34.72347,https://www.nature.com/articles/s41591-020-1059-1,Chikwawa
+Domasi College Clinic,-15.2775,35.3908,OpenStreetMap,Zomba
+Domasi Rural Hospital,-15.28083,35.39906,https://www.nature.com/articles/s41591-020-1059-1,Zomba
+Doviko Dispensary,-15.08225,34.59072,https://www.nature.com/articles/s41591-020-1059-1,Ntcheu
+Dowa District Hospital,-13.65508,33.93689,https://www.nature.com/articles/s41591-020-1059-1,Dowa
+Dr David Livingstone Memorial Clinic,-13.978842,33.785059,Google maps,Lilongwe
+Dr Msachi's Clinic ,-11.457321,34.017161,Google maps,Mzimba-North
+Dream,,,Not found,Blantyre
+Dwambazi Rural Hospital,-12.234,33.99214,https://www.nature.com/articles/s41591-020-1059-1,Nkhotakota
+Dwangwa Cane Growers Limited Dispensary,-12.51003,34.11212,UNC shapefiles,Nkhotakota
+Dwangwa Health Centre,-12.88142,33.4537,https://www.nature.com/articles/s41591-020-1059-1,Kasungu
+Dzalanyama Dispensary,-14.249444,33.443889,MASDAP.mw,Lilongwe
+Dzaleka Refugee Camp Health Centre,-13.66478,33.86817,https://www.nature.com/articles/s41591-020-1059-1,Dowa
+Dzenje Health Centre,-16.1164,35.4056,UNC shapefiles,Mulanje
+Dzenza Health Centre,-13.87592,33.74706,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Dzindevu Health Centre,-14.20039,34.36017,https://www.nature.com/articles/s41591-020-1059-1,Dedza
+Dziwe Health Centre,-15.56353,34.88053,https://www.nature.com/articles/s41591-020-1059-1,Blantyre
+Dzonzi-Mvai Health Centre,-14.94872,34.64355,https://www.nature.com/articles/s41591-020-1059-1,Ntcheu
+Dzoole Health Centre,-13.58522,33.66195,https://www.nature.com/articles/s41591-020-1059-1,Dowa
+Dzunje Dispensary,-14.80783,34.73597,https://www.nature.com/articles/s41591-020-1059-1,Ntcheu
+Edingeni Rural Hospital,-12.04083,33.31278,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-South
+Ehehleni Dispensary,-12.26211,33.5892,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-South
+Ekwaiweni Health Centre,-11.42317,33.89772,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-North
+Ekwendeni Mission Hospital,-11.37172,33.88367,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-North
+El-barakah Private Clinic,,,Not found,Blantyre
+Embangweni Hospital,-12.13686,33.47606,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-South
+Emfeni Health Centre,-12.59394,33.60972,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-South
+Emsizini Health Centre,-11.44428,33.82497,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-North
+Endindeni Health Centre,-11.75789,33.556,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-South
+Engucwini Health Centre,-11.1975,33.82306,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-North
+Enukweni Health Centre,-11.18,33.88583,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-North
+Enukweni Mission Health Centre,,,Not found,Mzimba-North
+Escom Clinic Lilongwe,-13.99195,33.77192,Github,Lilongwe
+Escom Clinic Mzuzu ,-11.461389,34.015,MASDAP.mw,Mzimba-North
+Euthini Rural Hospital,-11.45836,33.41925,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-South
+Eva Demaya Centre ,-10.959917,33.6485,UNC shapefiles,Rumphi
+Falls Banja La Mtsogolo Dispensary,-13.9969,33.7793,UNC shapefiles,Lilongwe
+Fanuel Dispensary,,,Not found,Mchinji
+Fidelity Private Clinic,,,Not found,Lilongwe
+Fpam Clinic Kasungu,-13.039456,33.484292,Google maps,Kasungu
+Fpam Clinic Kawale,-13.99076,33.79949,Github,Lilongwe
+Fpam Clinic Mzuzu,,,Not found,Mzimba-North
+Fpam Clinic Neno,,,Not found,Neno
+Fpam Clinic Ntcheu,-14.80935,34.62561,Github,Ntcheu
+Fulirwa Health Centre,-10.44778,34.11444,https://www.nature.com/articles/s41591-020-1059-1,Karonga
+Gaga Health Centre,-15.80778,34.37203,https://www.nature.com/articles/s41591-020-1059-1,Chikwawa
+Ganya Health Centre,-14.60989,34.61811,https://www.nature.com/articles/s41591-020-1059-1,Ntcheu
+Gate way Clinic,-15.804229,35.018042,Google maps,Blantyre
+Gawanani Health Centre,-15.223806,35.203111,UNC shapefiles,Machinga
+Gika Clinic,-13.8949,33.7627,UNC shapefiles,Lilongwe
+Ginnery Corner BLM,-15.80248,35.02362,UNC shapefiles,Blantyre
+Gogo Nazombe health centre,-15.82471,35.61875,Github,Phalombe
+Gogode Health Centre,-12.88783,33.56153,https://www.nature.com/articles/s41591-020-1059-1,Kasungu
+Gola Dispensary,-15.8827,34.2993,https://www.nature.com/articles/s41591-020-1059-1,Chikwawa
+Golomoti Health Centre,-14.412861,34.600889,UNC shapefiles,Dedza
+Gombe Health Center,-16.371111,35.232778,MASDAP.mw,Thyolo
+Good Hope Private Clinic ,-13.920683,33.747825,Google maps,Lilongwe
+Gowa Health Centre,-14.69897,34.58992,https://www.nature.com/articles/s41591-020-1059-1,Ntcheu
+Guilleme St Michaels Mission Hospital,-13.89,33.0756,https://www.nature.com/articles/s41591-020-1059-1,Mchinji
+Gumba Dispensary,-13.423889,33.11,https://www.nature.com/articles/s41591-020-1059-1,Mchinji
+H Parker Sharp Dispensary,-15.29908,35.36083,https://www.nature.com/articles/s41591-020-1059-1,Zomba
+Hallena Oakely Health Centre,-16.12669,35.0845,https://www.nature.com/articles/s41591-020-1059-1,Thyolo
+Hara Dispensary,-10.48878,34.1693,https://www.nature.com/articles/s41591-020-1059-1,Karonga
+Hoho Health Centre,-12.27819,33.68653,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-South
+Hunger (Majete) Health Centre,-16.09819,34.62398,Github,Chikwawa
+Iba Dispensary,-14.30575,35.39717,https://www.nature.com/articles/s41591-020-1059-1,Mangochi
+Ifumbo Health Centre,-9.604445,33.40472,https://www.nature.com/articles/s41591-020-1059-1,Chitipa
+Illovo Factory,-16.202332,34.840381,Google maps,Chikwawa
+Iponga Health Centre,-9.645833,33.8125,https://www.nature.com/articles/s41591-020-1059-1,Karonga
+Jalasi Health Centre,-14.36297,35.44253,https://www.nature.com/articles/s41591-020-1059-1,Mangochi
+Jalawe Health Centre,-10.73056,34.16139,https://www.nature.com/articles/s41591-020-1059-1,Rumphi
+Jenda Health Centre,-12.35208,33.54753,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-South
+Jti Leaf Clinic Kanengo ,-13.8898,33.80487,Github,Lilongwe
+K2 Taso Clinic,-13.030557,33.668935,Google maps,Kasungu
+Kabudula Rural Hospital,-13.81967,33.44864,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Kabuwa Health Centre,-12.517,34.07405,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-South
+Kabwafu Health Centre,-11.30864,33.52581,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-North
+Kachere Health Centre,-12.00306,34.04972,https://www.nature.com/articles/s41591-020-1059-1,Nkhata-Bay
+Kachere Private Clinic,-14.00511,33.81734,Github,Lilongwe
+Kachindamoto Dispensary,,,Not found,Dedza
+Kadango Dispensary,-14.06071,35.18621,https://www.nature.com/articles/s41591-020-1059-1,Mangochi
+Kadidi Health Centre,-15.660556,35.022564,Google maps,Blantyre
+Kafele Health Centre,-14.43172,33.71767,https://www.nature.com/articles/s41591-020-1059-1,Dedza
+Kafukule Health Centre,-11.45736,33.6338,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-North
+Kaigwazanga Health Centre,-13.62667,32.92805,https://www.nature.com/articles/s41591-020-1059-1,Mchinji
+Kakoma Health Centre,-16.09814,34.62361,https://www.nature.com/articles/s41591-020-1059-1,Chikwawa
+Kakwale Health Centre,-12.503298,33.544162,Google maps,Kasungu
+Kalemba Health Centre,-16.57539,35.11175,https://www.nature.com/articles/s41591-020-1059-1,Nsanje
+Kalembo Health Centre,-14.85814,35.17619,https://www.nature.com/articles/s41591-020-1059-1,Balaka
+Kalikeni Private Clinic ,-13.0389,33.48138,Github,Kasungu
+Kalikumbi Health Centre,-12.20403,33.33369,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-South
+Kalima Village Clinic,,,Not found,Chikwawa
+Kalimanjira Health Centre,,,Not found,Ntcheu
+Kalinde Health Centre,-15.6721,35.7284,https://www.nature.com/articles/s41591-020-1059-1,Phalombe
+Kalulu Health Centre,-13.99708,34.19894,https://www.nature.com/articles/s41591-020-1059-1,Dedza
+Kalulu Illovo Clinic,,,Not found,Chikwawa
+Kaluluma Rural Hospital,-12.58119,33.51883,https://www.nature.com/articles/s41591-020-1059-1,Kasungu
+Kambenje Health Centre,-15.85311,35.564,https://www.nature.com/articles/s41591-020-1059-1,Mulanje
+Kamboni Health Centre,-13.30758,33.18172,https://www.nature.com/articles/s41591-020-1059-1,Kasungu
+Kameme Health Centre,-9.544139,33.13122,https://www.nature.com/articles/s41591-020-1059-1,Chitipa
+Kamforzi Dispensary,,,Not found,Thyolo
+Kampanje Maternity,-14.599,34.5867,https://www.nature.com/articles/s41591-020-1059-1,Ntcheu
+Kamphata Dispensary,-17.04689,35.21642,https://www.nature.com/articles/s41591-020-1059-1,Nsanje
+Kamsonga Health Centre,-13.27406,33.79945,https://www.nature.com/articles/s41591-020-1059-1,Ntchisi
+Kamteteka Health Centre,-11.83678,33.35925,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-South
+Kamuzu Academy Clinic,-13.02944,33.68806,UNC shapefiles,Kasungu
+Kamuzu Barracks Dispensary,-13.982,33.8202,UNC shapefiles,Lilongwe
+Kamwe Health Centre,-11.10306,33.78889,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-North
+Kande Health Centre,-11.93556,34.10917,https://www.nature.com/articles/s41591-020-1059-1,Nkhata-Bay
+Kandeu Health Centre,-14.60303,34.61625,https://www.nature.com/articles/s41591-020-1059-1,Ntcheu
+Kanengo Tobacco Processors Clinic ,-13.9775,33.80694,UNC shapefiles,Lilongwe
+Kangolwa Health Centre,-13.37033,34.07039,https://www.nature.com/articles/s41591-020-1059-1,Ntchisi
+Kang'Oma Health Centre,-13.9782,33.882,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Kankao Health Centre,-15.05433,34.9227,https://www.nature.com/articles/s41591-020-1059-1,Balaka
+Kanyama Health Centre,-14.2395,34.3237,https://www.nature.com/articles/s41591-020-1059-1,Dedza
+Kanyezi Health Centre,-14.31403,33.95269,https://www.nature.com/articles/s41591-020-1059-1,Dedza
+Kanyimbi Dispensary,-16.6935,34.9675,UNC shapefiles,Nsanje
+Kaombe Dispensary,-13.22211,33.964,https://www.nature.com/articles/s41591-020-1059-1,Ntchisi
+Kaongozi Dispensary,-12.4349,34.04989,https://www.nature.com/articles/s41591-020-1059-1,Nkhotakota
+Kapanga Health Centre,-14.06,33.30611,https://www.nature.com/articles/s41591-020-1059-1,Mchinji
+Kapelula Health Centre,-12.87775,33.87094,https://www.nature.com/articles/s41591-020-1059-1,Kasungu
+Kapenda Health Centre,-9.494555,33.24908,https://www.nature.com/articles/s41591-020-1059-1,Chitipa
+Kapeni Dream Centre ,-15.63975,35.015003,Google maps,Blantyre
+Kapeni Health Centre,-15.00461,34.77072,https://www.nature.com/articles/s41591-020-1059-1,Ntcheu
+Kaphatenga Health Centre,-13.76269,34.38356,https://www.nature.com/articles/s41591-020-1059-1,Salima
+Kaphuka Health Centre,-14.04406,34.3055,https://www.nature.com/articles/s41591-020-1059-1,Dedza
+Kapichila (ESCOM) Health Centre,-16.07416,34.81651,Github,Chikwawa
+Kapichira Escom Clinic,-16.07416,34.81651,Github,Chikwawa
+Kapire Dream Centre ,-14.707536,34.981245,Google maps,Mangochi
+Kapire Health Centre,-14.78556,34.99917,https://www.nature.com/articles/s41591-020-1059-1,Mangochi
+Kapiri Health Centre (Nkhotakota),-13.21619,34.31144,https://www.nature.com/articles/s41591-020-1059-1,Nkhotakota
+Kapiri Mission Hospital,-13.56194,33.17361,https://www.nature.com/articles/s41591-020-1059-1,Mchinji
+Kaporo Rural Hospital,-9.767222,33.87444,https://www.nature.com/articles/s41591-020-1059-1,Karonga
+Karonga District Hospital,-9.955,33.91139,https://www.nature.com/articles/s41591-020-1059-1,Karonga
+Kasalika Dispensary,-13.033,33.499,https://www.nature.com/articles/s41591-020-1059-1,Kasungu
+kasembereka Health Centre,-16.104167,35.095833,MASDAP.mw,Thyolo
+Kasese Health centre,-13.33171,33.57616,https://www.nature.com/articles/s41591-020-1059-1,Dowa
+Kaseye Mission Hospital,-9.666389,33.37389,https://www.nature.com/articles/s41591-020-1059-1,Chitipa
+Kasina Health Centre,-14.14136,34.13148,https://www.nature.com/articles/s41591-020-1059-1,Dedza
+Kasinje Health Centre,-14.52342,34.67658,https://www.nature.com/articles/s41591-020-1059-1,Ntcheu
+Kasinthula Dispensary,-16.07422,34.81656,https://www.nature.com/articles/s41591-020-1059-1,Chikwawa
+Kasitu Dispensary,-12.30911,34.03403,https://www.nature.com/articles/s41591-020-1059-1,Nkhotakota
+Kasoba Health Centre,-9.87361,33.87028,https://www.nature.com/articles/s41591-020-1059-1,Karonga
+Kasungu District Hospital,-13.03611,33.48053,https://www.nature.com/articles/s41591-020-1059-1,Kasungu
+Katawa Health Centre,-13.71314,34.31801,Github,Salima
+Katchale Health Centre,-14.28358,33.908,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Katema Health Centre,-14.52361,35.03608,https://www.nature.com/articles/s41591-020-1059-1,Mangochi
+Katete Rural Hospital,-12.34611,33.61419,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-South
+Katili Dispensary,,,Not found,Karonga
+Katimbila Health Centre,-12.75744,34.21761,https://www.nature.com/articles/s41591-020-1059-1,Nkhotakota
+Katowo Rural Hospital,-10.81278,33.52222,https://www.nature.com/articles/s41591-020-1059-1,Rumphi
+Katsekera Health Centre,-15.03339,34.641,https://www.nature.com/articles/s41591-020-1059-1,Ntcheu
+Katuli Health Centre,-14.1803,35.4438,UNC shapefiles,Mangochi
+Kaundu Health Centre,-14.29369,34.62872,https://www.nature.com/articles/s41591-020-1059-1,Dedza
+Kavuzi Health Centre,-11.683333,34.016667,https://www.nature.com/articles/s41591-020-1059-1,Nkhata-Bay
+Kawalazi Plantation Clinic,-11.6464,34.1086,UNC shapefiles,Nkhata-Bay
+Kawale Banja La Mtsogolo Dispensary,-13.9915,33.79514,Github,Lilongwe
+Kawale Medical Services ,-13.9912,33.7987,UNC shapefiles,Lilongwe
+Kawale Urban Health Centre,-13.99167,33.798,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Kawamba Health Centre,-13.29556,33.33928,https://www.nature.com/articles/s41591-020-1059-1,Kasungu
+Kaweche Health Centre,-11.34035,33.866017,Google maps,Mzimba-North
+Kawinga Dispensary,-14.85478,35.57203,https://www.nature.com/articles/s41591-020-1059-1,Machinga
+Kayembe Health Centre,-13.64267,33.58306,https://www.nature.com/articles/s41591-020-1059-1,Dowa
+Kazyozyo Dispensary,-13.57536,32.86367,UNC shapefiles,Mchinji
+kch Dental Department,-13.97787,33.78567,UNC shapefiles,Kamuzu Central Hospital
+kch Medical Department,-13.97787,33.78567,UNC shapefiles,Kamuzu Central Hospital
+kch Obs and Gynae Department,-13.97787,33.78567,UNC shapefiles,Kamuzu Central Hospital
+kch Ophthalmology Department,-13.97787,33.78567,UNC shapefiles,Kamuzu Central Hospital
+kch Surgical Department,-13.97787,33.78567,UNC shapefiles,Kamuzu Central Hospital
+Khama Private Clinic,-14.062222,33.816111,MASDAP.mw,Lilongwe
+Khasu Health Centre,-13.7988,33.3134,UNC shapefiles,Lilongwe
+Khola Health Centre,-13.34414,33.31725,https://www.nature.com/articles/s41591-020-1059-1,Kasungu
+Khombedza Health Centre,-13.59678,34.31111,https://www.nature.com/articles/s41591-020-1059-1,Salima
+Khondowe Health Centre,-11.07281,34.21939,Github,Nkhata-Bay
+Khongoni Health Centre,-13.7745,33.3675,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Khonjeni Health Centre,-16.09669,35.27142,https://www.nature.com/articles/s41591-020-1059-1,Thyolo
+Khosolo Health Centre,-12.44031,33.79031,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-South
+Khuwi Health Centre,-13.43181,33.83395,https://www.nature.com/articles/s41591-020-1059-1,Ntchisi
+Khuyukuyu Health Centre,-11.14073,33.7155,UNC shapefiles,Mzimba-North
+Koche Health Centre,-14.33333,35.14333,https://www.nature.com/articles/s41591-020-1059-1,Mangochi
+Kochilira Rural Hospital,-13.7819,33.0431,https://www.nature.com/articles/s41591-020-1059-1,Mchinji
+Kukalanga Dispensary,-14.63722,35.18,https://www.nature.com/articles/s41591-020-1059-1,Mangochi
+Kunenekude Health Centre,-15.46444,34.49111,https://www.nature.com/articles/s41591-020-1059-1,Mwanza
+Kwitanda Health Centre,-15.06353,35.09284,https://www.nature.com/articles/s41591-020-1059-1,Balaka
+Lafarge Cement Clinic,-15.79126,35.027295,Google maps,Blantyre
+Lakeview Health Centre,-14.642,34.55355,https://www.nature.com/articles/s41591-020-1059-1,Ntcheu
+Lambulira Health Centre,-15.48356,35.33683,https://www.nature.com/articles/s41591-020-1059-1,Zomba
+Lemwe Health Centre,-13.8853,33.3433,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Lengwe Dispensary (MoH),-16.28642,34.83881,https://www.nature.com/articles/s41591-020-1059-1,Chikwawa
+Lengwe Illovo (Private),,,Not found,Chikwawa
+Lifeline Health Centre,-14.09024,34.54475,https://www.nature.com/articles/s41591-020-1059-1,Salima
+Lifuwu Health Centre,-13.67922,34.58878,https://www.nature.com/articles/s41591-020-1059-1,Salima
+Lighthouse KCH,-13.97762,33.788,UNC shapefiles,Lilongwe
+Ligowe Dispensary,-15.474,34.651049,https://www.nature.com/articles/s41591-020-1059-1,Neno
+Likangala Health Centre,-15.42783,35.54447,https://www.nature.com/articles/s41591-020-1059-1,Zomba
+Likuni Hospital,-14.02761,33.7085,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Lilongwe Central Hospital,-13.97686,33.78586,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Lilongwe City Assembly Chinsapo ,-13.98925,33.77144,arcgis.com,Lilongwe
+Lilongwe Health Clinic ,-13.96642,33.76625,Github,Lilongwe
+Lilongwe Private Clinic ,-13.938945,33.792006,Google maps,Lilongwe
+Limbe Diagnostic Centre,,,Not found,Blantyre
+Limbe Health Centre,-15.8176,35.052,UNC shapefiles,Blantyre
+Limbe Leaf Tobacco Clinic Lilongwe ,-13.89278,33.8025,UNC shapefiles,Lilongwe
+Limbe Leaf Tobacco ClinicLimbe,,,Not found,Blantyre
+Limbe MASM Clinic,-15.8127,35.05502,OpenStreetMap,Blantyre
+Lingadzi Private Clinic ,-13.95347,33.76629,UNC shapefiles,Lilongwe
+Linyangwa Health Centre,-13.14381,33.30036,https://www.nature.com/articles/s41591-020-1059-1,Kasungu
+Lirangwe Health Centre,-15.52939,35.02975,https://www.nature.com/articles/s41591-020-1059-1,Blantyre
+Lisungwi Health Centre,-15.43667,34.77333,https://www.nature.com/articles/s41591-020-1059-1,Neno
+Liuzi Health Centre,-12.18944,34.01556,https://www.nature.com/articles/s41591-020-1059-1,Nkhata-Bay
+Livwezi Health Centre,,,Not found,Kasungu
+Liwaladzi Health Centre,-12.62072,34.1652,https://www.nature.com/articles/s41591-020-1059-1,Nkhotakota
+Liwonde Medical Clinic,-15.0654,35.2245,UNC shapefiles,Machinga
+Lizulu Health Centre,-14.51772,34.46564,https://www.nature.com/articles/s41591-020-1059-1,Ntcheu
+Lobi Health Centre,-14.39033,34.07183,https://www.nature.com/articles/s41591-020-1059-1,Dedza
+Lodjwa Health Centre,-12.41892,33.52945,https://www.nature.com/articles/s41591-020-1059-1,Kasungu
+Ludzi St Joseph's Mission Hospital,-13.75861,32.99278,https://www.nature.com/articles/s41591-020-1059-1,Mchinji
+Lugola Health Centre,-13.96222,35.14167,https://www.nature.com/articles/s41591-020-1059-1,Mangochi
+Lujeri Health Centre,-15.987206,35.416687,Github,Mulanje
+Lulanga Health Centre,-13.68722,34.91722,https://www.nature.com/articles/s41591-020-1059-1,Mangochi
+Lulwe Health Centre,-17.08761,35.11417,https://www.nature.com/articles/s41591-020-1059-1,Nsanje
+Lumbadzi Health Centre,-13.7708,33.8049,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Lundu Health Centre,-15.42172,35.01303,https://www.nature.com/articles/s41591-020-1059-1,Blantyre
+Lungu Private Clinic,-15.8288,35.07862,UNC shapefiles,Blantyre
+Lungwena Health Centre,-14.24494,35.24842,https://www.nature.com/articles/s41591-020-1059-1,Mangochi
+Lunjika Health Centre,-11.76436,33.6857,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-South
+Lunzu BLM,-15.65217,35.02074,UNC shapefiles,Blantyre
+Lupembe Health Centre,-10.06611,33.98778,https://www.nature.com/articles/s41591-020-1059-1,Karonga
+Lura Health Centre,-10.72463,34.04405,https://www.nature.com/articles/s41591-020-1059-1,Rumphi
+Lusangazi Dispensary,-11.53258,33.94,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-North
+Lutheran Mobile Clinic,-13.87619,34.02515,UNC shapefiles,Lilongwe
+Luvwere Dispensary,-11.38903,33.67292,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-North
+Luwalika Health Centre,-14.23803,35.46964,https://www.nature.com/articles/s41591-020-1059-1,Mangochi
+Luwani Health Centre,-15.47944,34.7425,https://www.nature.com/articles/s41591-020-1059-1,Neno
+Luwawa Health Centre,-12.11342,33.71955,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-South
+Luwerezi Health Centre,-12.48828,33.6413,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-South
+Luwuchi Health Centre,-10.68361,34.19258,https://www.nature.com/articles/s41591-020-1059-1,Rumphi
+Luzi Health Centre,-10.99686,33.95589,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-North
+Lwazi Health Centre,-11.51867,34.15125,https://www.nature.com/articles/s41591-020-1059-1,Nkhata-Bay
+Lwezga Health Centre,-10.56667,34.17944,https://www.nature.com/articles/s41591-020-1059-1,Karonga
+Mabili Health Centre,-12.24625,33.42997,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-South
+Machinga District Hospital,-15.06222,35.22611,https://www.nature.com/articles/s41591-020-1059-1,Machinga
+Machinga Health Centre,-15.17742,35.29564,https://www.nature.com/articles/s41591-020-1059-1,Machinga
+Machinjiri Health Centre,-15.2356,35.41776,https://www.nature.com/articles/s41591-020-1059-1,Zomba
+Macro Blantyre ,-15.65117,35.02036,arcgis.com,Blantyre
+Macro Lilongwe ,-13.99817,33.776,arcgis.com,Lilongwe
+Macro Mzuzu ,-11.46525,34.014611,UNC shapefiles,Mzimba-North
+Madede Health Centre,-11.53894,33.29456,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-South
+Madina Mobile Clinic,,,Not found,Mangochi
+Madisi Hospital,-13.40708,33.60725,https://www.nature.com/articles/s41591-020-1059-1,Dowa
+Madziabango Health Centre,-15.96817,34.91058,https://www.nature.com/articles/s41591-020-1059-1,Blantyre
+Maera Health Centre,-15.50987,35.1315,Github,Zomba
+Maere Health Centre,-15.50987,35.1315,Github,Zomba
+Mafco Health Centre,-13.7836,34.6036,UNC shapefiles,Salima
+Mafisi clinic,-16.06667,35.25,UNC shapefiles,Thyolo
+Maganga Health Centre,-13.84678,34.559,https://www.nature.com/articles/s41591-020-1059-1,Salima
+Magareta Health Centre,-15.550833,34.628333,MASDAP.mw,Neno
+Magomero Health Centre,-15.55639,35.26272,https://www.nature.com/articles/s41591-020-1059-1,Zomba
+Mahowe Health Centre,-10.183192,33.690349,Github,Chitipa
+Makanjira Health Centre,-13.71528,35.04694,https://www.nature.com/articles/s41591-020-1059-1,Mangochi
+Makapwa Health Centre,-16.181664,35.279991,https://www.nature.com/articles/s41591-020-1059-1,Thyolo
+Makata Health Centre,-15.63006,35.07975,https://www.nature.com/articles/s41591-020-1059-1,Blantyre
+Makhanga Health Centre,-16.52175,35.17347,https://www.nature.com/articles/s41591-020-1059-1,Nsanje
+Makhetha Dispensary,-15.781253,35.072563,Google maps,Blantyre
+Makhwira Health Centre,-16.02525,34.78955,https://www.nature.com/articles/s41591-020-1059-1,Chikwawa
+Makiyoni Health Centre,-13.58625,34.19725,https://www.nature.com/articles/s41591-020-1059-1,Salima
+Makungwa Health Centre(Bvumbwe),-15.9403,35.02627,UNC shapefiles,Thyolo
+Makwapala Health Centre,-15.36936,35.45694,https://www.nature.com/articles/s41591-020-1059-1,Zomba
+Makwasa Estate Clinic,-16.17155,35.11011,Github,Thyolo
+Malabada Health Centre,-15.76634,35.04438,https://www.nature.com/articles/s41591-020-1059-1,Blantyre
+Malambo Health Centre,-13.214337,33.76324,https://www.nature.com/articles/s41591-020-1059-1,Ntchisi
+Malamulo Day Clinic,-15.783476,35.003765,Google maps,Blantyre
+Malamulo Hospital,-16.1714,35.1094,https://www.nature.com/articles/s41591-020-1059-1,Thyolo
+Malawi Army Marine Camp Hospital ,-14.07275,34.91736,UNC shapefiles,Mangochi
+Maldeco Fisheries Clinic,-14.333403,35.149997,https://www.nature.com/articles/s41591-020-1059-1,Mangochi
+Malembo Health Centre,-14.23642,34.82536,https://www.nature.com/articles/s41591-020-1059-1,Mangochi
+Malembo Health Centre (Lilongwe),-13.6199,33.4148,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Malidadi Health Centre,-11.22889,33.5,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-North
+Malingunde Health Centre,-14.1687,33.6395,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Malmed Private Clinic,,,Not found,Blantyre
+Malombe Dispensary,-14.62933,35.3489,https://www.nature.com/articles/s41591-020-1059-1,Mangochi
+Malomo Health Centre,-13.14914,33.83939,https://www.nature.com/articles/s41591-020-1059-1,Ntchisi
+Malowa Health Centre,-13.18167,34.25145,https://www.nature.com/articles/s41591-020-1059-1,Nkhotakota
+Malukula Health Centre,-14.44269,35.3555,https://www.nature.com/articles/s41591-020-1059-1,Mangochi
+Maluwa Health Centre,-14.2629,33.8738,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Mama Khadija Private ClinicNamwera ,-14.3711,35.4922,OpenStreetMap,Mangochi
+Mangamba Health Centre,-14.79145,35.43652,Github,Machinga
+Mangochi District Hospital,-14.48194,35.26472,https://www.nature.com/articles/s41591-020-1059-1,Mangochi
+Mangulenje Health Centre,-16.10534,34.9157,Github,Chikwawa
+Mangunda Health Centre,-16.02886,35.26144,https://www.nature.com/articles/s41591-020-1059-1,Thyolo
+Manjawira Health Centre,-15.0082,34.8596,UNC shapefiles,Ntcheu
+Manolo Health Center,,,Not found,Mzimba-North
+Manyamula Health Centre,-11.94,33.43945,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-South
+Maonde Health Centre,-14.40622,34.11647,https://www.nature.com/articles/s41591-020-1059-1,Dedza
+Mapanga Health Center,-16.27617,35.19695,https://www.nature.com/articles/s41591-020-1059-1,Thyolo
+Maperera Health Centre,-16.10539,34.91558,https://www.nature.com/articles/s41591-020-1059-1,Chikwawa
+Mapeto DWS Clinic,,,Not found,Blantyre
+Maravi Health Centre,-15.83686,35.14867,Github,Chiradzulu
+Mars Clinic ,-13.79299,33.77113,UNC shapefiles,Lilongwe
+Masasa Health Centre,-14.43339,34.42244,https://www.nature.com/articles/s41591-020-1059-1,Ntcheu
+Mase Health Centre,-14.58056,35.36389,https://www.nature.com/articles/s41591-020-1059-1,Mangochi
+Masenjere Health Centre,-16.33731,35.09678,https://www.nature.com/articles/s41591-020-1059-1,Nsanje
+Masm Area 43 ,-13.93161,33.8097,Google maps,Lilongwe
+Masm Medi Clinic,,,Not found,Zomba
+Masm Medi Clinic Katoto ,-11.47111,33.99535,Github,Mzimba-North
+Masm Medi Clinic Lilongwe ,-13.964378,33.777872,Google maps,Lilongwe
+Masm Medi ClinicLimbe ,,,OpenStreetMap,Dedza
+Matanda Health Centre,-15.1053,34.6681,https://www.nature.com/articles/s41591-020-1059-1,Ntcheu
+Matandani Health Centre,-15.33056,34.65306,https://www.nature.com/articles/s41591-020-1059-1,Neno
+Matapila Health Centre,-14.011,33.9752,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Matawale Urban Health Centre,-15.39044,35.35947,https://www.nature.com/articles/s41591-020-1059-1,Zomba
+Matiki Health Centre,-12.499453,34.151756,https://www.nature.com/articles/s41591-020-1059-1,Nkhotakota
+Matiya Health Centre,-15.53397,35.54725,https://www.nature.com/articles/s41591-020-1059-1,Zomba
+Matope Health Centre,-15.35361,34.94695,https://www.nature.com/articles/s41591-020-1059-1,Neno
+Matuli Health Centre,-11.48533,33.89622,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-North
+Matumba Health Centre,-14.37272,33.90606,https://www.nature.com/articles/s41591-020-1059-1,Dedza
+Maula Health Centre,-11.73518,34.23514,Github,Nkhata-Bay
+Maula Prison Health Centre Static Art,-13.96963,33.768,OpenStreetMap,Lilongwe
+Mauwa Health Centre,-15.65283,35.25014,https://www.nature.com/articles/s41591-020-1059-1,Chiradzulu
+Mauwa Maternity,-15.65283,35.25014,https://www.nature.com/articles/s41591-020-1059-1,Chiradzulu
+Mayaka Health Centre,-15.57314,35.37294,https://www.nature.com/articles/s41591-020-1059-1,Zomba
+Mayani Health Centre,-14.09714,34.25294,https://www.nature.com/articles/s41591-020-1059-1,Dedza
+Mazabuka Medical Centre ,-13.940116,33.756353,Google maps,Lilongwe
+Maziko Private Clinic ,,,Not found,Lilongwe
+Mazunga Private Clinic,-12.50926,34.11203,UNC shapefiles,Nkhotakota
+Mbabvi Health Centre,-13.92783,33.67092,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Mbalachanda Health Centre,-11.35761,33.37119,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-South
+Mbalanguzi Dispensary,-16.251,35.16672,https://www.nature.com/articles/s41591-020-1059-1,Thyolo
+Mbang'ombe 1 Health Centre,-13.7369,33.714,UNC shapefiles,Lilongwe
+Mbang'ombe 2 Health Centre,-14.16958,33.37925,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Mbayani Health Center,,,Not found,Blantyre
+Mbenje Health Centre,-16.99481,35.22086,https://www.nature.com/articles/s41591-020-1059-1,Nsanje
+Mbera Health Centre,-14.91064,35.0537,https://www.nature.com/articles/s41591-020-1059-1,Balaka
+Mbingwa Health Centre,-13.54417,33.51495,https://www.nature.com/articles/s41591-020-1059-1,Dowa
+Mbiza Health Centre,-16.09281,35.34628,https://www.nature.com/articles/s41591-020-1059-1,Mulanje
+Mbonechera Health Centre,-14.88944,35.47825,https://www.nature.com/articles/s41591-020-1059-1,Machinga
+Mbulumbudzi Health Centre,-15.63875,35.15686,https://www.nature.com/articles/s41591-020-1059-1,Chiradzulu
+Mbulumbudzi Maternity,-15.63875,35.15686,https://www.nature.com/articles/s41591-020-1059-1,Chiradzulu
+Mbwatalika Health Centre,-14.00372,33.55091,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Mc Quire Wellness Health Centre,-14.067976,33.47202,Google maps,Lilongwe
+Mchacha Dispensary,-16.4878,35.16,UNC shapefiles,Nsanje
+Mchima Clinic,-16.09883,35.07553,Github,Thyolo
+Mchinji District Hospital,-13.8025,32.88722,https://www.nature.com/articles/s41591-020-1059-1,Mchinji
+Mchoka Health Centre,-13.92633,34.48986,https://www.nature.com/articles/s41591-020-1059-1,Salima
+Mdeka Health Centre,-15.46778,34.94272,https://www.nature.com/articles/s41591-020-1059-1,Blantyre
+Mdeza Dispensary,-14.235172,33.967588,Github,Dedza
+MDF Secondary School Clinic,-15.652701,35.019543,Google maps,Blantyre
+Mdunga Heallth Centre,-12.99159,33.85181,https://www.nature.com/articles/s41591-020-1059-1,Kasungu
+Merit Private Clinic,,,Not found,Blantyre
+Mfera Health Centre,-16.06691,34.86703,https://www.nature.com/articles/s41591-020-1059-1,Chikwawa
+Mganja Maternity,-14.42048,34.52305,Github,Dedza
+Mhalaunda Health Centre,-12.05111,33.46686,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-South
+Mhuju Rural Hospital,-10.86667,33.9975,https://www.nature.com/articles/s41591-020-1059-1,Rumphi
+Mianga estate clinic,-16.09759,35.07469,UNC shapefiles,Thyolo
+Midzemba Dispensary,-15.3476222,34.8404944,OpenStreetMap,Neno
+Migowi Health Centre,-15.71944,35.68544,https://www.nature.com/articles/s41591-020-1059-1,Phalombe
+Mikolongwe Health Centre,-15.9015,35.18375,https://www.nature.com/articles/s41591-020-1059-1,Thyolo
+Mikondo Dispensary,-14.44717,33.9395,https://www.nature.com/articles/s41591-020-1059-1,Dedza
+Mikundi Health Centre,-13.70778,33.13805,https://www.nature.com/articles/s41591-020-1059-1,Mchinji
+Mikuyu Adult Clinic,-15.22599,35.19599,Google maps,Zomba
+Mikuyu Young Clinic,-15.22599,35.19599,Google maps,Zomba
+Milepa Health Centre,-15.68706,35.31881,https://www.nature.com/articles/s41591-020-1059-1,Chiradzulu
+Milonde Health Centre,-16.10222,35.47833,https://www.nature.com/articles/s41591-020-1059-1,Mulanje
+Mimosa Dispensary,-16.0856,35.6122,https://www.nature.com/articles/s41591-020-1059-1,Mulanje
+Ming'Ongo Health Centre,-14.075,33.4483,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Minimini Dispensary,-16.05833,35.575,UNC shapefiles,Mulanje
+Misamvu Dispensary,-16.7627,35.0473,UNC shapefiles,Nsanje
+Misomali Health Centre,-16.00547,34.48569,https://www.nature.com/articles/s41591-020-1059-1,Chikwawa
+Misuku Health Centre,-9.679667,33.52075,https://www.nature.com/articles/s41591-020-1059-1,Chitipa
+Mitsidi Health Centre(Lumbira),-15.77761,34.96856,https://www.nature.com/articles/s41591-020-1059-1,Blantyre
+Mitundu Rural Hospital,-14.2483,33.7744,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Mjini Dispensary,-14.04296,34.2388,https://www.nature.com/articles/s41591-020-1059-1,Dedza
+Mkanda Health Centre,-13.51444,32.96083,https://www.nature.com/articles/s41591-020-1059-1,Mchinji
+Mkango Dispensary,-16.73075,35.27031,https://www.nature.com/articles/s41591-020-1059-1,Nsanje
+Mkhota R Growth Health Centre,-13.56675,33.34358,https://www.nature.com/articles/s41591-020-1059-1,Kasungu
+Mkhuzi Health Centre,-13.3664,33.7767,https://www.nature.com/articles/s41591-020-1059-1,Ntchisi
+Mkhwayi Health Centre,-15.61444,35.62778,https://www.nature.com/articles/s41591-020-1059-1,Phalombe
+Mkoma Health Centre,-12.61236,33.78253,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-South
+Mkomaola Health Centre,-16.14386,35.52479,Github,Mulanje
+Mkumba Health Centre,-14.59444,35.52528,https://www.nature.com/articles/s41591-020-1059-1,Mangochi
+Mkwepere Health Centre,-14.588611,35.648611,https://www.nature.com/articles/s41591-020-1059-1,Machinga
+Mlale Hospital,-14.2303,33.7564,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Mlambe Hospital,-15.64478,35.01725,https://www.nature.com/articles/s41591-020-1059-1,Blantyre
+Mlanda Health Centre,-14.47875,34.45964,https://www.nature.com/articles/s41591-020-1059-1,Ntcheu
+Mlangali Dispensary,-14.40389,34.27722,UNC shapefiles,Dedza
+Mlangeni Health Centre,-14.67653,34.5368,https://www.nature.com/articles/s41591-020-1059-1,Ntcheu
+Mlangeni Police Health Centre,-14.6826,34.5334,UNC shapefiles,Ntcheu
+Mlare Dispensary,-10.17122,34.03584,https://www.nature.com/articles/s41591-020-1059-1,Karonga
+Mlodza SDA Dispensary,-14.00689,33.818,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Mlolera Womens Clinic ,-13.95102,33.76703,Github,Lilongwe
+Mlolo Dispensary,-16.41972,35.1525,https://www.nature.com/articles/s41591-020-1059-1,Nsanje
+Mlomba Health Centre,-15.042105,35.464927,https://www.nature.com/articles/s41591-020-1059-1,Machinga
+Mlowe Health Centre,-10.76431,34.19489,https://www.nature.com/articles/s41591-020-1059-1,Rumphi
+M'mambo Heaith Centre,-15.26132,35.15943,https://www.nature.com/articles/s41591-020-1059-1,Zomba
+Mndinda Health Centre,-13.24733,34.05669,https://www.nature.com/articles/s41591-020-1059-1,Ntchisi
+Mnyanja Health Centre,,,Not found,Kasungu
+Monkey-Bay Community Hospital,-14.085,34.91083,https://www.nature.com/articles/s41591-020-1059-1,Mangochi
+Moyale Barracks Health Centre ,-11.45976,34.03829,Github,Mzimba-North
+Moyo Wanga Pvt clinic,-13.99029,33.78767,UNC shapefiles,Lilongwe
+Mpala Health Centre,-16.14389,35.52472,https://www.nature.com/articles/s41591-020-1059-1,Mulanje
+Mpamantha Health Centre,-13.06931,34.25222,https://www.nature.com/articles/s41591-020-1059-1,Nkhotakota
+Mpamba Health Centre,-11.54667,34.19722,https://www.nature.com/articles/s41591-020-1059-1,Nkhata-Bay
+Mpasa Health Centre,-15.75783,35.61139,https://www.nature.com/articles/s41591-020-1059-1,Phalombe
+Mpata Health Centre,-9.960556,33.815,https://www.nature.com/articles/s41591-020-1059-1,Karonga
+MPC Bwaila ART CLINIC,-13.99103,33.77478,Google maps,Lilongwe
+Mpemba Health Centre,-15.87492,34.95653,https://www.nature.com/articles/s41591-020-1059-1,Blantyre
+Mpepa / Chisinga Health Centre,-12.621111,33.327222,UNC shapefiles,Kasungu
+Mphathi Health Centre,-14.45547,34.07678,https://www.nature.com/articles/s41591-020-1059-1,Dedza
+Mphepozinai Dispensary,-14.73583,34.66083,https://www.nature.com/articles/s41591-020-1059-1,Ntcheu
+Mpherembe Health Centre,-11.28819,33.61464,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-North
+Mphopha Health Centre,-11.00606,34.07294,https://www.nature.com/articles/s41591-020-1059-1,Rumphi
+Mphunzi Health Centre,-14.37822,34.17522,https://www.nature.com/articles/s41591-020-1059-1,Dedza
+Mpingo Health Centre,,,Not found,Blantyre
+Mpiri Health Centre,-14.77253,35.60706,https://www.nature.com/articles/s41591-020-1059-1,Machinga
+Mpondasi Health Centre,-14.45333,35.24417,https://www.nature.com/articles/s41591-020-1059-1,Mangochi
+Mponela Rural Hospital,-13.53253,33.73761,https://www.nature.com/articles/s41591-020-1059-1,Dowa
+Mposa Health Centre,-15.14917,35.51833,https://www.nature.com/articles/s41591-020-1059-1,Machinga
+Msakambewa Health Centre,-13.55297,33.89711,https://www.nature.com/articles/s41591-020-1059-1,Dowa
+Mseche Clinic,,,Not found,Lilongwe
+Msenjere Health Centre,-12.73261,34.17064,https://www.nature.com/articles/s41591-020-1059-1,Nkhotakota
+Msese Health Centre,-12.35947,33.73994,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-South
+Msumbe Health Centre,-9.75123,33.67563,Github,Chitipa
+Mtakataka Health Centre,-14.2275,34.51495,https://www.nature.com/articles/s41591-020-1059-1,Dedza
+Mtakataka Police Health Centre,-14.22692,34.51307,UNC shapefiles,Dedza
+Mtende Health Centre,-11.49736,33.54881,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-South
+Mtendere Health Centre,-14.32272,34.09286,https://www.nature.com/articles/s41591-020-1059-1,Dedza
+Mtengoumodzi Private Hospital,-15.72271,35.01644,UNC shapefiles,Blantyre
+Mtengowanthenga Dream Project ,-13.671394,33.776799,Google maps,Dowa
+Mtengowanthenga Hospital,-13.67128,33.77133,https://www.nature.com/articles/s41591-020-1059-1,Dowa
+Mtenthera Health Centre,-14.1085,34.0055,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Mtimabii Health Centre,-14.60954,35.08263,https://www.nature.com/articles/s41591-020-1059-1,Mangochi
+Mtonda Health Centre,-15.02806,34.74833,UNC shapefiles,Ntcheu
+Mtosa Health Centre,-13.43864,34.27383,https://www.nature.com/articles/s41591-020-1059-1,Nkhotakota
+Mtunthama Health Centre,-13.03158,33.68245,https://www.nature.com/articles/s41591-020-1059-1,Kasungu
+Mtwalo Health Centre,-11.39675,33.74594,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-North
+Mua Health Centre,-14.282222,34.510278,MASDAP.mw,Dedza
+Mua Mission Hospital,-14.28278,34.50933,https://www.nature.com/articles/s41591-020-1059-1,Dedza
+Mulanje District Hospital,-16.02555,35.5075,https://www.nature.com/articles/s41591-020-1059-1,Mulanje
+Mulanje Mission Hospital,-16.02086,35.4642,https://www.nature.com/articles/s41591-020-1059-1,Mulanje
+Mulibwanji Hospital,-14.51158,35.588,https://www.nature.com/articles/s41591-020-1059-1,Mangochi
+Mulomba Health Centre,-15.76528,35.51194,https://www.nature.com/articles/s41591-020-1059-1,Mulanje
+Muloza Health Centre,-16.06222,35.76194,https://www.nature.com/articles/s41591-020-1059-1,Mulanje
+Muluma Dispensary,-14.71998,34.63374,UNC shapefiles,Ntcheu
+Mulungu Alinafe Health Centre,-15.93038,35.76603,Github,Phalombe
+Mumbwe Medical Centre ,-11.46175,34.027722,UNC shapefiles,Mzimba-North
+Mvera Mission Health Centre,-13.73686,34.12839,https://www.nature.com/articles/s41591-020-1059-1,Dowa
+Mvera Support Battalion Health Centre,-13.746667,34.126667,MASDAP.mw,Dowa
+Mwachira Private Clinic,,,Not found,Blantyre
+Mwaiwathu Private Hospital,-15.785578,35.016801,Google maps,Blantyre
+Mwandama Health Centre,-15.49803,35.18803,Github,Zomba
+Mwanga Health Centre,-15.64611,35.53194,https://www.nature.com/articles/s41591-020-1059-1,Phalombe
+Mwangala Health Centre,-13.4894,33.9231,UNC shapefiles,Dowa
+Mwansambo Health Centre,-13.50311,34.13028,https://www.nature.com/articles/s41591-020-1059-1,Nkhotakota
+Mwanza District Hospital,-15.59111,34.51133,https://www.nature.com/articles/s41591-020-1059-1,Mwanza
+Mwanza Illovo Clinic,-16.22357,34.68896,Github,Chikwawa
+Mwaya Health Centre,-11.97658,34.07603,Github,Nkhata-Bay
+Mwayi Private,,,Not found,Lilongwe
+Mwazisi Health Centre,-10.94389,33.57889,https://www.nature.com/articles/s41591-020-1059-1,Rumphi
+Mzalangwe Health Centre,-11.61231,33.56522,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-South
+Mzambazi Rural Hospital,-11.42764,33.43367,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-South
+Mzandu Health Centre,-13.48908,34.02767,https://www.nature.com/articles/s41591-020-1059-1,Ntchisi
+Mzenga Health Centre,-11.73236,34.0773,https://www.nature.com/articles/s41591-020-1059-1,Nkhata-Bay
+Mzimba District Hospital,-11.89808,33.58428,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-South
+Mziza Health Centre ,,,Not found,Kasungu
+Mzokoto Health Centre,-10.90778,34.02714,https://www.nature.com/articles/s41591-020-1059-1,Rumphi
+Mzuzu Central Prison ,-11.46474,34.01991,Github,Mzimba-North
+Mzuzu Police Dispensary,-11.463,34.0238,UNC shapefiles,Mzimba-North
+Mzuzu University Clinic ,-11.42175,33.99564,Github,Mzimba-North
+Mzuzu Urban Health Centre,-11.46139,34.015,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-North
+Nainunje Health Centre,-14.73991,35.56479,UNC shapefiles,Machinga
+Naisi Health Centre,-15.35655,35.385,https://www.nature.com/articles/s41591-020-1059-1,Zomba
+Nakalanzi Health Centre,-14.20261,34.54892,https://www.nature.com/articles/s41591-020-1059-1,Dedza
+Nalunga Health Centre,-13.64044,34.06356,https://www.nature.com/articles/s41591-020-1059-1,Dowa
+Namadidi Dispensary,-15.41079,35.24736,Github,Zomba
+Namadzi Health Centre,-15.54669,35.18767,https://www.nature.com/articles/s41591-020-1059-1,Chiradzulu
+Namalaka Health Centre,-14.12361,35.19305,https://www.nature.com/articles/s41591-020-1059-1,Mangochi
+Namandanje Health Centre,-14.88214,35.48328,https://www.nature.com/articles/s41591-020-1059-1,Machinga
+Namanja Health Centre,-14.96444,35.67944,https://www.nature.com/articles/s41591-020-1059-1,Machinga
+Namanolo Health Centre,-15.00199,35.19002,https://www.nature.com/articles/s41591-020-1059-1,Balaka
+Namasalima Health Centre (Mulanje),-16.08028,35.71556,https://www.nature.com/articles/s41591-020-1059-1,Mulanje
+Namasalima Health Centre (Zomba),-15.23133,35.48883,https://www.nature.com/articles/s41591-020-1059-1,Zomba
+Nambazo Health Centre,-15.55669,35.81922,https://www.nature.com/articles/s41591-020-1059-1,Phalombe
+Nambiti II Health Centre,-15.7519,35.7777,UNC shapefiles,Phalombe
+Nambuma Health Centre,-13.72611,33.558,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Namikango Health Centre,-15.4773,35.2407,https://www.nature.com/articles/s41591-020-1059-1,Zomba
+Namikoko Health Centre,-15.48681,35.07375,https://www.nature.com/articles/s41591-020-1059-1,Blantyre
+Naming'omba estate clinic,-16.025,35.083333,MASDAP.mw,Thyolo
+Namisu Dispensary,-15.08353,34.78122,https://www.nature.com/articles/s41591-020-1059-1,Ntcheu
+Namitambo Health Centre,-15.84119,35.27036,https://www.nature.com/articles/s41591-020-1059-1,Chiradzulu
+Namizana Dispensary,-14.0014,33.2486,UNC shapefiles,Mchinji
+Namphungo Health Centre,-15.80417,35.34889,https://www.nature.com/articles/s41591-020-1059-1,Mulanje
+Namulenga Health Centre,-15.86542,35.32747,https://www.nature.com/articles/s41591-020-1059-1,Mulanje
+Namwera Health Centre,-14.36389,35.50222,https://www.nature.com/articles/s41591-020-1059-1,Mangochi
+Nancholi Dispensary,-14.47833,35.58667,https://www.nature.com/articles/s41591-020-1059-1,Mangochi
+Nancholi YO Palliative Care site,,,Not found,Blantyre
+Nandumbo Health Centre,-14.85032,35.22536,UNC shapefiles,Balaka
+Nangalamu Health Centre,-14.46806,35.67305,https://www.nature.com/articles/s41591-020-1059-1,Mangochi
+Nankhwali Health Centre,-14.135,34.84472,https://www.nature.com/articles/s41591-020-1059-1,Mangochi
+Nankumba Health Centre,-14.36528,34.82361,https://www.nature.com/articles/s41591-020-1059-1,Mangochi
+NAPHAM Clinic,,,,Blantyre
+Naphimba Health Centre,-16.03504,35.67858,https://www.nature.com/articles/s41591-020-1059-1,Mulanje
+Nasawa Health Centre,-15.60231,35.25956,https://www.nature.com/articles/s41591-020-1059-1,Zomba
+Nathenje Health Centre,-14.0819,33.9078,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Nayuchi Health Centre,-14.97569,35.86714,https://www.nature.com/articles/s41591-020-1059-1,Machinga
+Ndakwela Health Centre,-16.22361,34.68886,https://www.nature.com/articles/s41591-020-1059-1,Chikwawa
+Ndamera Health Centre,-17.09575,35.21894,https://www.nature.com/articles/s41591-020-1059-1,Nsanje
+Ndaula Health Centre,-14.1384,33.5076,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Ndimoyo Palliative Care Centre,-13.78274,34.45888,Github,Salima
+Ndirande BLM,-15.77844,35.03962,UNC shapefiles,Blantyre
+Ndirande Urban Health Centre,-15.77833,35.03975,https://www.nature.com/articles/s41591-020-1059-1,Blantyre
+Ndunde Health Centre,-15.69636,35.23344,https://www.nature.com/articles/s41591-020-1059-1,Chiradzulu
+Neno District Hospital,-15.395,34.65361,https://www.nature.com/articles/s41591-020-1059-1,Neno
+Neno Parish Health Centre,-15.43708,34.60828,https://www.nature.com/articles/s41591-020-1059-1,Neno
+New Statehouse Dispensary,-13.9603,33.8509,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Newa / Mpasazi Health Centre,-12.582917,33.382024,https://www.nature.com/articles/s41591-020-1059-1,Kasungu
+Ngabu Rural Hospital,-16.45947,34.89247,https://www.nature.com/articles/s41591-020-1059-1,Chikwawa
+Ngabu SDA  Health Centre,-16.46408,34.87901,https://www.nature.com/articles/s41591-020-1059-1,Chikwawa
+Ngala Health Centre,-12.36517,34.06553,https://www.nature.com/articles/s41591-020-1059-1,Nkhotakota
+Ngana Health Centre,-9.62,33.69917,https://www.nature.com/articles/s41591-020-1059-1,Karonga
+Ngapani Health Centre,-14.0296,35.33773,Github,Mangochi
+Ngodzi Health Centre,-14.08997,34.51139,https://www.nature.com/articles/s41591-020-1059-1,Salima
+Ngokwe Health Centre,-14.70683,35.80175,https://www.nature.com/articles/s41591-020-1059-1,Machinga
+Ng'onga Health Centre,-10.93748,33.94341,https://www.nature.com/articles/s41591-020-1059-1,Rumphi
+Ngoni Health Centre,-13.7749,33.6402,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Ngwelero Health Centre,-15.66714,35.42794,https://www.nature.com/articles/s41591-020-1059-1,Zomba
+Njuyu Health Centre,-11.52469,33.6995,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-North
+Nkalo Health Centre,-15.97067,35.31022,https://www.nature.com/articles/s41591-020-1059-1,Chiradzulu
+Nkasala Health Centre,-15.32789,35.21703,https://www.nature.com/articles/s41591-020-1059-1,Zomba
+Nkhalango Private Clinic,-14.0117,33.70432,UNC shapefiles,Lilongwe
+Nkhamenya Hospital,-12.56603,33.50136,https://www.nature.com/articles/s41591-020-1059-1,Kasungu
+Nkhande Dispensary,-17.11483,35.15689,https://www.nature.com/articles/s41591-020-1059-1,Nsanje
+Nkhata Bay District Hospital,-11.60139,34.29833,https://www.nature.com/articles/s41591-020-1059-1,Nkhata-Bay
+Nkhatabay Private Clinic,-11.605833,34.295833,MASDAP.mw,Nkhata-Bay
+Nkhataombere Maternity,-16.3233,35.264,UNC shapefiles,Thyolo
+Nkhoma Hospital,-14.0441,34.1031,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Nkhorongo Health Centre,-11.39011,33.98492,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-North
+Nkhotakota District Hospital,-12.92894,34.29239,https://www.nature.com/articles/s41591-020-1059-1,Nkhotakota
+Nkhulambe Health Centre,-15.85811,35.75136,https://www.nature.com/articles/s41591-020-1059-1,Phalombe
+Nkhunga Health Centre,-12.48017,34.10822,https://www.nature.com/articles/s41591-020-1059-1,Nkhotakota
+Nkhwazi Health Centre,-13.92333,33.22667,https://www.nature.com/articles/s41591-020-1059-1,Mchinji
+Nkomaula Health Centre,,,Not found,Mulanje
+Nkombedzi Health Centre,-16.27513,34.88067,UNC shapefiles,Chikwawa
+Nkope Health Centre,-14.19708,35.03947,https://www.nature.com/articles/s41591-020-1059-1,Mangochi
+Nkula Health Centre,-15.52222,34.82528,https://www.nature.com/articles/s41591-020-1059-1,Neno
+Nkula/Tedzani Clinic,,,Not found,Blantyre
+Nkumaniza Health Centre,-16.48101,34.72473,UNC shapefiles,Chikwawa
+NRC,-14.179543,33.778258,Google maps,Lilongwe
+Nsabwe Dispensary,-16.33817,35.20047,https://www.nature.com/articles/s41591-020-1059-1,Thyolo
+Nsambe Sda Health Centre,-15.26167,34.61361,https://www.nature.com/articles/s41591-020-1059-1,Neno
+Nsanama Health Centre,-14.99486,35.49478,https://www.nature.com/articles/s41591-020-1059-1,Machinga
+Nsanje District Hospital,-16.91769,35.25989,https://www.nature.com/articles/s41591-020-1059-1,Nsanje
+Nsaru Health Centre,-13.8853,33.5044,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Nsipe Health Centre,-14.86422,34.75167,https://www.nature.com/articles/s41591-020-1059-1,Ntcheu
+Nsiyaludzu Health Centre,-14.93672,34.87422,https://www.nature.com/articles/s41591-020-1059-1,Ntcheu
+Ntaja Health Centre,-14.86814,35.5295,https://www.nature.com/articles/s41591-020-1059-1,Machinga
+Ntcheu District Hospital,-14.81689,34.63831,https://www.nature.com/articles/s41591-020-1059-1,Ntcheu
+Ntchisi District Hospital,-13.36333,33.91103,https://www.nature.com/articles/s41591-020-1059-1,Ntchisi
+Nthalire Health Centre,-10.34906,33.64375,https://www.nature.com/articles/s41591-020-1059-1,Chitipa
+Nthenje Health Centre,-10.91789,33.98803,https://www.nature.com/articles/s41591-020-1059-1,Rumphi
+Ntholowa Health Centre,-14.99471,35.57455,UNC shapefiles,Machinga
+Nthondo Health Centre (Lilongwe),-14.0287,33.4499,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Nthondo Health Centre (Ntchisi),-13.24714,34.02322,https://www.nature.com/articles/s41591-020-1059-1,Ntchisi
+Nthungwa Health Centre,-11.66,33.80056,https://www.nature.com/articles/s41591-020-1059-1,Nkhata-Bay
+Nyamanda Pvt Clinic,,,Not found,Lilongwe
+Nyambadwe Private Hospital,-15.77288,35.02293,UNC shapefiles,Blantyre
+Nyambi Health Centre,-14.68994,35.5725,https://www.nature.com/articles/s41591-020-1059-1,Machinga
+Nyamithuthu Health Centre,-16.68239,35.19835,https://www.nature.com/articles/s41591-020-1059-1,Nsanje
+Nyungwe Health Centre,-10.285,34.10833,https://www.nature.com/articles/s41591-020-1059-1,Karonga
+Nzama Health Centre,-14.89333,34.58556,UNC shapefiles,Ntcheu
+Ofesi Health Centre,-12.7795,33.54881,https://www.nature.com/articles/s41591-020-1059-1,Kasungu
+Padley Pio Health Centre,,,Not found,Mzimba-North
+Paracchute dispensary,-13.74439,34.58761,UNC shapefiles,Salima
+Partners In Hope Clinic Moyo Clinic (public),-14.02341,33.78783,Github,Lilongwe
+Partners In Hope ClinicDalitso Clinic(private),-14.02341,33.78783,Github,Lilongwe
+Pensulo Health Centre,,,Not found,Blantyre
+Phalombe Health Centre,-15.8062,35.6488,https://www.nature.com/articles/s41591-020-1059-1,Phalombe
+Phalombe Mission Holy Family Hospital,-15.82469,35.61872,https://www.nature.com/articles/s41591-020-1059-1,Phalombe
+Phalula Health Centre,-15.22547,34.89331,https://www.nature.com/articles/s41591-020-1059-1,Balaka
+Phanga Dispensary,-14.34364,34.71998,https://www.nature.com/articles/s41591-020-1059-1,Ntcheu
+Phimbi Health Centre,-15.25092,35.10711,https://www.nature.com/articles/s41591-020-1059-1,Balaka
+Phirilongwe Health Centre,-14.58831,34.89847,https://www.nature.com/articles/s41591-020-1059-1,Mangochi
+Phokera Health Centre,-16.62758,35.16583,https://www.nature.com/articles/s41591-020-1059-1,Nsanje
+Pim Health Centre,-15.7532,35.1919,https://www.nature.com/articles/s41591-020-1059-1,Chiradzulu
+Pirimiti Health Centre,-15.48281,35.451,https://www.nature.com/articles/s41591-020-1059-1,Zomba
+Police (Area 30) Dispensary,-13.9275,33.78417,UNC shapefiles,Lilongwe
+Police College Dispensary,,,Not found,Dedza
+Police College Health Centre ,,,Not found,Dedza
+Police Hospital,-15.3903,35.3265,UNC shapefiles,Zomba
+Polytechnic Clinic ,-15.80111,35.0275,UNC shapefiles,Blantyre
+Press Cooperation Clinic,-15.79722,35.02222,UNC shapefiles,Blantyre
+PSI,-15.78447,34.99781,OpenStreetMap,Blantyre
+qech Clinical Support Services,-15.80208,35.02072,https://www.nature.com/articles/s41591-020-1059-1,Queen Elizaberth Central Hospital
+qech Dental Department,-15.80208,35.02072,https://www.nature.com/articles/s41591-020-1059-1,Queen Elizaberth Central Hospital
+qech Management Department,-15.80208,35.02072,https://www.nature.com/articles/s41591-020-1059-1,Queen Elizaberth Central Hospital
+qech Medical Department,-15.80208,35.02072,https://www.nature.com/articles/s41591-020-1059-1,Queen Elizaberth Central Hospital
+qech Obs and Gynae Department,-15.80208,35.02072,https://www.nature.com/articles/s41591-020-1059-1,Queen Elizaberth Central Hospital
+qech Ophthalmology Department,-15.80208,35.02072,https://www.nature.com/articles/s41591-020-1059-1,Queen Elizaberth Central Hospital
+qech Paediatric Department,-15.80208,35.02072,https://www.nature.com/articles/s41591-020-1059-1,Queen Elizaberth Central Hospital
+qech Rehabilitation & Palliative,-15.80208,35.02072,https://www.nature.com/articles/s41591-020-1059-1,Queen Elizaberth Central Hospital
+qech Surgical Department,-15.80208,35.02072,https://www.nature.com/articles/s41591-020-1059-1,Queen Elizaberth Central Hospital
+Queen Elizabeth Central Hospital,-15.80208,35.02072,https://www.nature.com/articles/s41591-020-1059-1,Blantyre
+Raiply Clinic,,,Not found,Mzimba-South
+Raiply Dispensary,-11.91656,33.75606,UNC shapefiles,Mzimba-South
+River of Life Clinic,,,Not found,Phalombe
+Ruarwe Health Centre,-11.11361,34.23083,https://www.nature.com/articles/s41591-020-1059-1,Nkhata-Bay
+Rumphi District Hospital,-11.01972,33.85417,https://www.nature.com/articles/s41591-020-1059-1,Rumphi
+Ruo Dispensary,-15.88889,35.65417,UNC shapefiles,Mulanje
+Sadzi Health Centre,-15.40739,35.31855,UNC shapefiles,Zomba
+Salima District Hospital,-13.76178,34.42183,https://www.nature.com/articles/s41591-020-1059-1,Salima
+Sambakusi Health Centre,-13.349658,33.983158,Github,Ntchisi
+Sambankhanga Health Centre,-16.116667,35.108333,MASDAP.mw,Thyolo
+Sandama Health Centre,-16.07641,35.07692,Github,Thyolo
+Sangilo Health Centre,-10.51594,34.21325,https://www.nature.com/articles/s41591-020-1059-1,Karonga
+Sanjika Clinic,,,,Blantyre
+Sankhulani Health Centre,-16.45686,35.25889,https://www.nature.com/articles/s41591-020-1059-1,Nsanje
+Santhe Health Centre,-13.46694,33.394,https://www.nature.com/articles/s41591-020-1059-1,Kasungu
+Satemwa Clinic,-16.075,35.08056,UNC shapefiles,Thyolo
+Senga Bay Baptist Dispensary,-13.74117,34.59536,https://www.nature.com/articles/s41591-020-1059-1,Salima
+Senzani Health Centre,-15.07864,34.85786,https://www.nature.com/articles/s41591-020-1059-1,Ntcheu
+Sharpe Valley Health Centre,-14.61117,34.73672,https://www.nature.com/articles/s41591-020-1059-1,Ntcheu
+Shifa Private Clinic,-15.787314,35.010383,Google maps,Blantyre
+Simlemba Health Centre,-12.74092,33.67669,https://www.nature.com/articles/s41591-020-1059-1,Kasungu
+Sinyala Dispensary,-14.58231,35.57611,https://www.nature.com/articles/s41591-020-1059-1,Mangochi
+Sister Teleza Community Hospital,-14.99925,34.82819,https://www.nature.com/articles/s41591-020-1059-1,Ntcheu
+Soche Maternity,-15.817148,35.030448,https://www.nature.com/articles/s41591-020-1059-1,Blantyre
+Soche SDA Dispensary,-15.8105,35.06378,https://www.nature.com/articles/s41591-020-1059-1,Blantyre
+Somba Health Centre,-14.64701,35.53803,Github,Mangochi
+Sorgin Health Centre,-16.54139,35.01445,https://www.nature.com/articles/s41591-020-1059-1,Nsanje
+Sos Childrens Village Blantyre,-15.72579,35.058836,Google maps,Blantyre
+SOS Clinic,-14.01976,33.79275,Github,Lilongwe
+South Lunzu Health Centre,-15.72678,35.05472,https://www.nature.com/articles/s41591-020-1059-1,Blantyre
+Sr Marthas Health Centre,-14.38528,35.53556,https://www.nature.com/articles/s41591-020-1059-1,Mangochi
+Ssh Clinic,-13.97345,33.77328,Github,Lilongwe
+St Andrews Community Hospital,-13.03294,33.67125,https://www.nature.com/articles/s41591-020-1059-1,Kasungu
+St Annes Health Centre,-10.41189,34.21158,https://www.nature.com/articles/s41591-020-1059-1,Karonga
+St Gabriels Hospital,-13.9844,33.3509,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+St Johns Mission Hospital,-11.45156,34.02831,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-North
+St Johns of God Mental Hospital,-11.453694,34.026417,UNC shapefiles,Mzimba-North
+St Josephs Mission Hospital(Nguludi),-15.8021,35.1686,UNC shapefiles,Chiradzulu
+St Josephs Mitengo Health Centre,,,Not found,Thyolo
+St Lukes Hospital,-15.209,35.35264,https://www.nature.com/articles/s41591-020-1059-1,Zomba
+St Martin Hospital,-14.3475,35.29361,https://www.nature.com/articles/s41591-020-1059-1,Mangochi
+St Martins Molere Health Centre,-16.216667,35.136389,MASDAP.mw,Thyolo
+St Montfort Hospital,-16.25656,34.86875,https://www.nature.com/articles/s41591-020-1059-1,Chikwawa
+St Patricks Health Centre(Rumphi),-11.02278,33.87305,https://www.nature.com/articles/s41591-020-1059-1,Rumphi
+St Peters (Likoma) Rural Hospital,-12.064994,34.736222,Google maps,Likoma
+St Peters Hospital,-12.064994,34.736222,Google maps,Likoma
+St Vincent Health CentreChadzunda,-15.91283,34.95019,https://www.nature.com/articles/s41591-020-1059-1,Blantyre
+St. Annes Mission Hospital,-12.92672,34.29603,https://www.nature.com/articles/s41591-020-1059-1,Nkhotakota
+St. Faith Health Centre,-12.876436,33.605715,https://www.nature.com/articles/s41591-020-1059-1,Kasungu
+St. John of God Mental Hospital (Lilongwe),-13.921732,33.798072,Google maps,Lilongwe
+St. Kizito Dispensary,,,Not found,Lilongwe
+State House Dispensary,-15.38153,35.31017,https://www.nature.com/articles/s41591-020-1059-1,Zomba
+Sukasanje Health Centre,-15.77085,35.55093,Github,Phalombe
+sunrise clinic,,,,Lilongwe
+Tachira Private Clinic ,-14.01916,33.72849,Github,Lilongwe
+Tcharo Health Centre,-10.9621,34.2229,https://www.nature.com/articles/s41591-020-1059-1,Rumphi
+Tedzani Clinic,,,Not found,Blantyre
+Tedzani Escom Clinic,,,Not found,Neno
+Tembwe Health Centre,-13.90111,33.06194,https://www.nature.com/articles/s41591-020-1059-1,Mchinji
+Tengani Health Centre,-16.91753,35.27033,https://www.nature.com/articles/s41591-020-1059-1,Nsanje
+Thambani Health Centre,-15.72583,34.39972,https://www.nature.com/articles/s41591-020-1059-1,Mwanza
+Thavite Health Centre,-13.49906,34.26125,https://www.nature.com/articles/s41591-020-1059-1,Salima
+The Clinic,-13.98495,33.76415,Github,Lilongwe
+Theatre For Change Clinic,-14.004667,33.752626,Google maps,Lilongwe
+Thekerani Rural Hospital,-16.32106,35.20716,https://www.nature.com/articles/s41591-020-1059-1,Thyolo
+Thembe Health Centre,-16.0872,35.4336,https://www.nature.com/articles/s41591-020-1059-1,Mulanje
+Thomas Health Centre,-16.02783,34.97967,https://www.nature.com/articles/s41591-020-1059-1,Thyolo
+Thondwe Health Centre,-15.48453,35.23722,https://www.nature.com/articles/s41591-020-1059-1,Zomba
+Thonje Health Centre,-13.72483,34.23739,https://www.nature.com/articles/s41591-020-1059-1,Dowa
+Thuchila Health Centre,-15.9189,35.3611,https://www.nature.com/articles/s41591-020-1059-1,Mulanje
+Thumbwe Health Centre,-15.76698,35.24874,https://www.nature.com/articles/s41591-020-1059-1,Chiradzulu
+Thunduwike Health Centre,-11.17647,33.57611,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-North
+Thunga Health Centre,-16.00237,35.06523,UNC shapefiles,Thyolo
+Thyolo District Hospital,-16.07019,35.15219,https://www.nature.com/articles/s41591-020-1059-1,Thyolo
+Tikondane Private Clinic,-16.57443,35.1021,UNC shapefiles,Nsanje
+Tiyese Private Maternity ,-14.29613,34.16295,Github,Dedza
+Trinity - Fatima Hospital,-16.41917,35.17175,https://www.nature.com/articles/s41591-020-1059-1,Nsanje
+Tsangano Health Centre,-15.17392,34.61092,https://www.nature.com/articles/s41591-020-1059-1,Ntcheu
+Tsoyo Dispensary,-14.08108,34.16122,https://www.nature.com/articles/s41591-020-1059-1,Dedza
+Tukombo Health Centre,-12.10456,34.04769,UNC shapefiles,Nkhata-Bay
+Tulonkhondo Health Centre,-15.74972,34.52306,https://www.nature.com/articles/s41591-020-1059-1,Mwanza
+Ukwe Health Centre,-13.8259,33.6016,https://www.nature.com/articles/s41591-020-1059-1,Lilongwe
+Ulongwe Health Centre,-14.86197,35.17667,https://www.nature.com/articles/s41591-020-1059-1,Balaka
+Umoyo Private Clinic,-14.006742,33.780534,FB,Lilongwe
+Umunthu Foundation,-15.839395,35.101417,Google maps,Blantyre
+UNC,-13.975763,33.786804,Google maps,Lilongwe
+Unilever South East Company Clinic,,,Not found,Blantyre
+United Bus Company Clinic,,,Not found,Blantyre
+Usisya Health Centre,-11.23639,34.20778,https://www.nature.com/articles/s41591-020-1059-1,Nkhata-Bay
+Utale 1 Health Centre,-15.1775,35.0643,https://www.nature.com/articles/s41591-020-1059-1,Balaka
+Utale 2 Health Centre,-15.16847,35.07,https://www.nature.com/articles/s41591-020-1059-1,Balaka
+Vibangalala Dispensary,-12.23436,33.48617,https://www.nature.com/articles/s41591-020-1059-1,Mzimba-South
+Vizara Dispensary,-11.66661,34.26117,https://www.nature.com/articles/s41591-020-1059-1,Nkhata-Bay
+Waruma Health Post,,,Not found,Phalombe
+Wenya Health Centre,-10.11278,33.56333,https://www.nature.com/articles/s41591-020-1059-1,Chitipa
+Wezi Medical Centre ,,,Not found,Mzimba-North
+Wiliro Health Centre,-9.893056,33.61389,https://www.nature.com/articles/s41591-020-1059-1,Karonga
+Wimbe Health Centre,-12.99122,33.68697,https://www.nature.com/articles/s41591-020-1059-1,Kasungu
+World Medical Fund ,-12.91536,34.28338,Github,Nkhotakota
+Yankho Private Clinic,-13.04044,33.48111,Github,Kasungu
+zalewa Dispensary,-15.52193,34.82512,Github,Neno
+Zilindo Health Centre,-15.3805,35.3013,Github,Zomba
+Zingwangwa BLM Clinic,-15.818404,35.011807,Google maps,Blantyre
+Zingwangwa Urban Health Centre,-15.81803,34.99822,https://www.nature.com/articles/s41591-020-1059-1,Blantyre
+Zoa Dispensary,,,Not found,Thyolo
+Zoa Health Centre,-16.23769,35.19978,https://www.nature.com/articles/s41591-020-1059-1,Thyolo
+Zolozolo Health Centre,-11.43386,34.02324,UNC shapefiles,Mzimba-North
+Zomba Central Prison Clinic,-15.3951,35.3242,https://www.nature.com/articles/s41591-020-1059-1,Zomba
+Msonthe Clinic,,,,
+Matekenya Health Centre,-13.564647,34.047714,Github,Dowa
